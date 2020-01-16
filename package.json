@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jemmychen/node-mysql/issues"
   },
-  "homepage": "https://github.com/jemmychen/node-mysql#readme"
+  "homepage": "https://github.com/jemmychen/node-mysql#readme",
+  "dependencies": {
+    "mysql": "^2.17.1"
+  }
 }
